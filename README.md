@@ -1,4 +1,5 @@
 # JavaTutorialsAlpha
 My attempt on learning Java
-<br />Upgraded Repository from Tutorial 1 - 15<br /> 
-Hey 
+<br />Updated 05/27/2017 Repository from Tutorial 2 - 15
+<br />Hey 
+<br />Updated 05/29/2017 Repository from tutorial 16 - 20
