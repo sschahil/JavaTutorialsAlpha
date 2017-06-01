@@ -6,7 +6,7 @@ import java.text.NumberFormat;
 import javax.swing.border.*;
 
 public class JavaLesson22 extends JFrame{
-	//comment 1
+	
 	JButton button1;
 	JLabel label1, label2, label3;
 	JTextField textField1, textField2;
@@ -32,9 +32,9 @@ public class JavaLesson22 extends JFrame{
 		
 		button1 = new JButton("Calculate");
 		
-		ListenForButton lForButton = new ListenForButton();
+		//ListenForButton lForButton = new ListenForButton();
 		
-		button1.addActionListener(lForButton);
+		//button1.addActionListener(lForButton);
 		
 		thePanel.add(button1);
 		
@@ -92,9 +92,9 @@ public class JavaLesson22 extends JFrame{
 		howManyTimes.setPaintTicks(true);
 		howManyTimes.setPaintLabels(true);
 		
-		ListenForSlider lForSlider = new ListenForSlider();
+		//ListenForSlider lForSlider = new ListenForSlider();
 		
-		howManyTimes.addChangeListener(lForSlider);
+		//howManyTimes.addChangeListener(lForSlider);
 		
 		thePanel.add(howManyTimes);
 		
