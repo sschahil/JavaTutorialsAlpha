@@ -6,7 +6,7 @@ import java.text.NumberFormat;
 import javax.swing.border.*;
 
 public class JavaLesson22 extends JFrame{
-
+	//comment 1
 	JButton button1;
 	JLabel label1, label2, label3;
 	JTextField textField1, textField2;
